@@ -17,6 +17,8 @@ Final project looks like this.İf you wanna learn which year is leap year or not
 
 What's leap year: A leap year is a year that has 366 days instead of the usual 365. This happens because the Earth's orbit around the Sun takes about 365.25 days, not exactly 365 days. To align our calendar with the Earth's orbit, we add an extra day, February 29, to the calendar every four years.
 
+I used https://patorjk.com/software/taag/#p=display&f=Ogre&t= this website to create logos.
+
 
 
 
